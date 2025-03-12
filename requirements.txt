@@ -1,0 +1,23 @@
+# Web framework
+Flask==3.1.0
+
+# HTTP requests
+requests==2.32.3
+
+# HTML parsing
+beautifulsoup4==4.13.3
+
+# LangChain (keep the version pinned or update as necessary)
+langchain==0.3.20
+
+# Transformers from Hugging Face
+transformers==4.49.0
+
+# PyTorch (required by Transformers/Hugging Face pipelines)
+torch==2.6.0
+
+# FAISS (CPU version for vector storage and similarity search)
+faiss-cpu==1.10.0
+
+# Sentence-Transformers for embedding models
+sentence-transformers==3.4.1

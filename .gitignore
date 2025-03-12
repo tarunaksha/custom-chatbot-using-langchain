@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.venv
+
+# FAISS vector store
+faiss_index/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# IDE-specific files
+.vscode/
+.idea/
